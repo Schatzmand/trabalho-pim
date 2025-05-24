@@ -304,4 +304,4 @@ def menu():
             print("Opção invalida.")
 
 #chamada do menu principal (inicio do programa)
-menu()
+menu() aaaaaaa
