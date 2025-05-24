@@ -305,3 +305,4 @@ def menu():
 
 #chamada do menu principal (inicio do programa)
 menu()
+comi o cu de quem ta lendo 
